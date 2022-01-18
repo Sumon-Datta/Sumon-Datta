@@ -1,4 +1,3 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Sumon Datta</h1>
 
