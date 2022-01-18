@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumon Datta</h1>
 
-<img align="right" alt="Coding" width="400" src="https://judocoder.com/wp-content/themes/judocoder/assets/v2/img/image_processing20210510-2700-1oal4i5.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-datta&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-datta" /> </p>
 
 - 🔭 I’m currently working on **Projects**
