@@ -43,6 +43,10 @@
     <img align="center" alt="" src="https://img.shields.io/badge/instagram-0094E1?style=flat-square&logo=instagram&logoColor=white" />
 </a>
    
+   <a href = "https://www.youtube.com/channel/UCBXshgP2vSWiryOS9UOR_-w">
+    <img align="center" alt="" src="https://img.shields.io/badge/youtube-0094E1?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+   
    
 <img align="center" alt="" src="https://img.shields.io/badge/skype-0094E1?style=flat-square&logo=skype&logoColor=white" />
 </p>
