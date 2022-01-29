@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/promahmudul/">
-  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+<a href="">
+  <img align="center" alt="" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="">
   <img align="center" alt="Sumon's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -38,7 +38,7 @@
 <a href="https://web.facebook.com/profile.php?id=100009273831107">
   <img align="center" alt="Sumon's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="" src="https://img.shields.io/badge/engrhass-0094E1?style=flat-square&logo=skype&logoColor=white" />
 </p>
 
 <h3 align="left">Languages: </h3> 
