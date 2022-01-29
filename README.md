@@ -40,15 +40,15 @@
 </a>
    
  <a href = "https://www.instagram.com/thenameissumon/">
-    <img align="center" alt="" src="https://img.shields.io/badge/instagram-0094E1?style=flat-square&logo=instagram&logoColor=#FF0070" />
+    <img align="center" alt="" src="https://img.shields.io/badge/instagram-FF007F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
    
    <a href = "https://www.youtube.com/channel/UCBXshgP2vSWiryOS9UOR_-w">
-    <img align="center" alt="" src="https://img.shields.io/badge/youtube-0094E1?style=flat-square&logo=youtube&logoColor=#FF0000 " />
+    <img align="center" alt="" src="https://img.shields.io/badge/youtube-FA0626?style=flat-square&logo=youtube&logoColor=white " />
 </a>
    
    
-<img align="center" alt="" src="https://img.shields.io/badge/skype-0094E1?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="" src="https://img.shields.io/badge/skype-06DCFA?style=flat-square&logo=skype&logoColor=white" />
 </p>
 
 <h3 align="left">Languages: </h3> 
