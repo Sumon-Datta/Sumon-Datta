@@ -1,8 +1,21 @@
 
 <div align="center">
    <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+  </div>
+  
+  <p align='center'>
+<a href="https://www.linkedin.com/in/promahmudul/">
+  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://mahmudulhassan.me/">
+  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://facebook.com/ProMahmudul">
+  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+ </p>
+
 <h3 align="center">¯\_(ツ)_/¯
 
  | Web Developer | 
