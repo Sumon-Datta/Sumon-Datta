@@ -4,16 +4,7 @@
   </div>
   
   <p align='center'>
-<a href="https://www.linkedin.com/in/promahmudul/">
-  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://mahmudulhassan.me/">
-  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://facebook.com/ProMahmudul">
-  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
-</a>
-<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+
  </p>
 
 <h3 align="center">¯\_(ツ)_/¯
@@ -38,9 +29,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100009273831107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100009273831107" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameishridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameishridoy" height="30"/></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbxshgp2vswiryos9uor_-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbxshgp2vswiryos9uor_-w" height="30" /></a>
+<a href="https://www.linkedin.com/in/promahmudul/">
+  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://mahmudulhassan.me/">
+  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://facebook.com/ProMahmudul">
+  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
+</a>
+<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
 </p>
 
 <h3 align="left">Languages: </h3> 
