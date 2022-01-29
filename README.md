@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-datta&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-datta" /> </p>
 
+
+### About Personal Things:
 - 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **React js and Node js**
@@ -21,10 +23,12 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbxshgp2vswiryos9uor_-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbxshgp2vswiryos9uor_-w" height="30" width="40" /></a>
 </p>
 
-**languages and tools:**  
+**languages and tools:** 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
