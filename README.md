@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Sumon Datta</h1>
+<div align="center">
+   <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 <h3 align="center">¯\_(ツ)_/¯
 
  | Web Developer | 
