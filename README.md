@@ -19,7 +19,7 @@
 ### About Personal Things:
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **React js and Node js**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
