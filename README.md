@@ -38,7 +38,13 @@
 <a href="https://web.facebook.com/profile.php?id=100009273831107">
   <img align="center" alt="Sumon's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="" src="https://img.shields.io/badge/engrhass-0094E1?style=flat-square&logo=skype&logoColor=white" />
+   
+ <a href = "https://www.instagram.com/thenameissumon/">
+    <img align="center" alt="" src="https://img.shields.io/badge/instagram-0094E1?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+   
+   
+<img align="center" alt="" src="https://img.shields.io/badge/skype-0094E1?style=flat-square&logo=skype&logoColor=white" />
 </p>
 
 <h3 align="left">Languages: </h3> 
