@@ -46,9 +46,7 @@
    <a href = "https://www.youtube.com/channel/UCBXshgP2vSWiryOS9UOR_-w">
     <img align="center" alt="" src="https://img.shields.io/badge/youtube-FA0626?style=flat-square&logo=youtube&logoColor=white " />
 </a>
-   
-   
-<img align="center" alt="" src="https://img.shields.io/badge/skype-06DCFA?style=flat-square&logo=skype&logoColor=white" />
+
 </p>
 
 <h3 align="left">Languages: </h3> 
