@@ -17,11 +17,9 @@
 
 
 ### About Personal Things:
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently Studying at **South East University**
 
 - 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **sumondatta16@gmail.com**
 
@@ -44,55 +42,40 @@
 </a>
    
    <a href = "https://www.youtube.com/channel/UCBXshgP2vSWiryOS9UOR_-w">
-    <img align="center" alt="" src="https://img.shields.io/badge/youtube-FA0626?style=flat-square&logo=youtube&logoColor=white " />
+    <img align="center" alt="" src="https://img.shields.io/badge/youtube-FA0626?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 
 </p>
 
 <h3 align="left">Languages: </h3> 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A2B5BE)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor)&nbsp;
+![MongoDb](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=MongoDB&logoColor)&nbsp;
 
 
 <h3 align="left">Frameworks:</h3>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![SQL](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor)&nbsp;
+
+
+<h3 align="left">Tools:</h3>
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=Sublime-Text&logoColor)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Git](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+
 
 <br />
 
