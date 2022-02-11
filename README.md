@@ -79,9 +79,15 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumon-datta&show_icons=true&locale=en&layout=compact" alt="sumon-datta" /></p>
+### My GitHub Status:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumon-datta&show_icons=true&locale=en" alt="sumon-datta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon-datta&" alt="sumon-datta" /></p>
+<p align="center" >
+<a href="https://github.com/Sumon-Datta/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Sumon-Datta&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+<p align="center" >
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connect with different people</b> 😊</em>
+</p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
