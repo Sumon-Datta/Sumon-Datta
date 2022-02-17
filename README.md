@@ -12,7 +12,7 @@
  | Web Developer | 
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-datta&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-datta" /> </p>
 
 
