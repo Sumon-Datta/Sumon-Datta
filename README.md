@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="">
+<a href="https://www.linkedin.com/in/sumon-datta-285779238/">
   <img align="center" alt="" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="">
