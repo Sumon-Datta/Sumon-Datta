@@ -9,7 +9,7 @@
 
 <h3 align="center">¯\_(ツ)_/¯
 
- | Web Developer | 
+ | Software Developer | 
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
@@ -54,7 +54,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A2B5BE)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor)&nbsp;
-![MongoDb](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=MongoDB&logoColor)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor)&nbsp;
 
 
 <h3 align="left">Frameworks:</h3>
