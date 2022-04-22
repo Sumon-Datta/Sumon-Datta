@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sumondatta16@gmail.com**
 
-- ⚡ Fun fact **i am so passionate about web development**
+<!-- - ⚡ Fun fact **i am so passionate about web development** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
