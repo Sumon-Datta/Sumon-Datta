@@ -54,7 +54,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A2B5BE)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL&logoColor)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor)&nbsp;
+<!-- ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor)&nbsp; -->
 
 
 <h3 align="left">Frameworks:</h3>
@@ -63,8 +63,8 @@
 ![SQL](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor)&nbsp;
 ![SQL](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor)&nbsp;
 ![SQL](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React&logoColor)&nbsp;
-![SQL](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor)&nbsp;
-![SQL](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor)&nbsp;
+<!-- ![SQL](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor)&nbsp;
+![SQL](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor)&nbsp; -->
 
 
 <h3 align="left">Tools:</h3>
