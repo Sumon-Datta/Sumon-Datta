@@ -1,6 +1,7 @@
 
 <div align="center">
-   <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> </h1>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "3px" width="5px">
+   <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a>  </h1>
   </div>
   
   <p align='center'>
@@ -9,7 +10,7 @@
 
 <h3 align="center">¯\_(ツ)_/¯
 
- | Software Developer | 
+ | Frontend Developer | 
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
