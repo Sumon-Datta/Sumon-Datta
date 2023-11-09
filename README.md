@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-developer-working-at-office-9170966-7495614.mp4?h=700)" height= "3px" width="5px">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "3px" width="5px">
    <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a>  </h1>
   </div>
   
