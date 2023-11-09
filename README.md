@@ -13,7 +13,7 @@
  | Frontend Developer | 
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-datta&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-datta" /> </p>
 
 
