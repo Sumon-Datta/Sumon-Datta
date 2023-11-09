@@ -13,7 +13,7 @@
  | Frontend Developer | 
 </h3>
 
-<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x5314619ktfz9nvteb26txr8okta5xwz9mi221mf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon-datta&label=Profile%20views&color=0e75b6&style=flat" alt="sumon-datta" /> </p>
 
 
