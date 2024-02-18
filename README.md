@@ -1,8 +1,5 @@
 
-<div align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "3px" width="5px">
-   <h1>Hi , I'm <a href="https://github.com/Sumon-Datta">Sumon Datta</a>  </h1>
-  </div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
   
   <p align='center'>
 
